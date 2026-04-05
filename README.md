@@ -1,5 +1,5 @@
 # yo im mya
-🔭 I’m currently working on tons of random projects <br>👯 I’m looking to collaborate on API Servers, And cool websites <br>🌱 I’m currently learning Rust Lang<br>follow me please :D
+🔭 I’m currently working on TabbyCluster.net <br>👯 I’m looking to collaborate on API Servers, And cool websites <br>🌱 I’m currently learning Rust Lang<br>follow me please :D
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=DJ-PAIN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
