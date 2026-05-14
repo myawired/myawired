@@ -4,7 +4,7 @@
 
 ---
 
-I do many things! i am software developer and network security auditor, security researcher, with a passion for building. I like robust, low-level applications and managing distributed infrastructure. My start of programming was driven by curiosity. I enjoy reverse engineering, and have a desire to solve complex problems through elegant, minimalist code.
+I do many things! i am software developer and network security auditor, security researcher, with a love for building. I like robust, low-level apps and managing distributed infrastructure. My start of programming was mostly driven by curiosity. I enjoy reverse engineering, and have a desire to solve complex problems through elegant, minimalist code.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myawired&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&line_height=20" alt="myawired GitHub stats" width="400"/>
