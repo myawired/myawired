@@ -6,16 +6,12 @@
 
 I do many things! i am software developer and network security auditor, security researcher, with a love for building. I like robust, low-level apps and managing distributed infrastructure. My start of programming was mostly driven by curiosity. I enjoy reverse engineering, and have a desire to solve complex problems through elegant, minimalist code.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myawired&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&line_height=20" alt="myawired GitHub stats" width="400"/>
-</div>
-
 ---
 
 ## 🎯 Current Focus
 
 - 🔭 Working on: **[KittyRec](https://kittyrec.tabbycluster.net/)** (Rebirthing 2018 RecRoom builds through reverse engineering and re-implementation)
-- 🌱 Learning: **ASP & Cisco Phone Networking** (Enterprise VoIP & infrastructure)
+- 🌱 Learning: **ASP & Cisco Phone Networking** (Enterprise VoIP & infrastructure), PfSense Routing.
 - 👯 Looking to collaborate on: **Security/Network Auditing tools & Rust-based systems**
 - 💬 Ask me about: **Proxmox clustering, Flask/FastAPI, and Arch Linux "rices"**
 - ⚡ Fun fact: **I host a home datacenter (East Coast Node) for TabbyCluster; all my nodes are named after cats.**
@@ -24,7 +20,7 @@ I do many things! i am software developer and network security auditor, security
 
 ## 🛠️ My Development Toolkit
 
-I believe in choosing the right tool for the job, preferably one that runs on Linux.
+I believe in choosing the right tool for the job, preferably one that runs on Linux!!
 
 <p align="center">
   <h3>💻 Programming Languages</h3>
@@ -95,16 +91,11 @@ or at my email mya@tabbycluster.net
 ---
 
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myawired&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=myawired&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ###  ":3" - Mathiee
+  ### ":3" - [Mathiee](https://bsky.app/profile/did:plc:z7qbkfdceyjrwxcvtpxa5vrj)
   <sub>Minimalist UI Lover • Aspiring peacemaker • Network Auditor</sub>
 </div>
